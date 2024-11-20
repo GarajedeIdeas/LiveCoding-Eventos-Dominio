@@ -12,9 +12,9 @@ Este proyecto no es funcional y hay partes no implementadas, su intención es se
 # RAMAS
 En este proyecto encontrarás 3 ramas:
 
-* main con el resultado final después del live coding.
-* before-refactor con el proyecto antes de ser refactorizado en el live coding, sin eventos de dominio.
-* after-refactor con el proyecto refactorizado usando eventos de dominio (elm mismo contenido que en main).
+* main: con el resultado final después del live coding.
+* before-refactor: con el proyecto antes de ser refactorizado en el live coding, sin eventos de dominio.
+* after-refactor: con el proyecto refactorizado usando eventos de dominio (elm mismo contenido que en main).
 
 # Enlaces de interés
 * 📝 [Mathias Verraes - Domain Events](https://verraes.net/2014/11/domain-events/)
