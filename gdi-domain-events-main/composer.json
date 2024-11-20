@@ -1,0 +1,48 @@
+{
+  "license": "proprietary",
+  "type": "project",
+  "require": {
+    "php": ">=8.3",
+    "ext-amqp": "*",
+    "doctrine/collections": "^1.8",
+    "doctrine/dbal": "^3.6",
+    "doctrine/doctrine-bundle": "^2.9",
+    "doctrine/inflector": "^2.0",
+    "doctrine/orm": "^2.11",
+    "doctrine/persistence": "^3.1",
+    "ramsey/uuid": "^4.7",
+    "symfony/amqp-messenger": "6.4.*",
+    "symfony/cache": "6.4.*",
+    "symfony/console": "6.4.*",
+    "symfony/dependency-injection": "6.4.*",
+    "symfony/dotenv": "6.4.*",
+    "symfony/event-dispatcher": "6.4.*",
+    "symfony/framework-bundle": "6.4.*",
+    "symfony/http-foundation": "6.4.*",
+    "symfony/http-kernel": "6.4.*",
+    "symfony/messenger": "6.4.*",
+    "symfony/yaml": "6.4.*"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-latest",
+    "phpunit/phpunit": "^10.0"
+  },
+  "conflict": {
+    "symfony/symfony": "*"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "Gdi\\Api\\": "Api/src/",
+      "Gdi\\Backoffice\\": "Backoffice/src/",
+      "Gdi\\Shared\\": "Shared/src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Gdi\\Api\\Tests\\Unit\\": "Api/tests/Unit/",
+      "Gdi\\Api\\Tests\\Mock\\": "Api/tests/Mock/"
+    }
+  }
+}
