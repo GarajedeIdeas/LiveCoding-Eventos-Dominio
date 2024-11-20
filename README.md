@@ -7,3 +7,18 @@ Este proyecto no es funcional y hay partes no implementadas, su intención es se
 
 /// Eventos de Dominio ➔ [https://www.youtube.com/watch?v=4JYdLynqJNg](https://www.youtube.com/live/zZ12aG1PqhQ?si=MbflRBlZxD61KFGT)
 
+
+RAMAS
+En este proyecto encontrarás 3 ramas:
+
+main con el resultado final después del live coding.
+before-refactor con el proyecto antes de ser refactorizado en el live coding, sin eventos de dominio.
+after-refactor con el proyecto refactorizado usando eventos de dominio (elm mismo contenido que en main).
+
+Enlaces de interés
+📝 Mathias Verraes - Domain Events
+📝 Nicolás Bottarini - Guía de eventos de dominio
+▶️ Codely TV - Por qué no puede haber SOLID sin Eventos de Dominio
+▶️ Codely TV - Eventos de Dominio vs Eventos de Integración
+▶️ Codely TV - Errores comunes aplicando eventos de dominio
+▶️ Codely TV - Curso Modelado del dominio: Eventos de Dominio
