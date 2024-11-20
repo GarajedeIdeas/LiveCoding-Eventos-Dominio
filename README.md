@@ -25,7 +25,7 @@ En este proyecto encontrarás 3 ramas:
 * ▶️ [Codely TV - Curso Modelado del dominio: Eventos de Dominio](https://pro.codely.com/library/modelado-del-dominio-eventos-de-dominio-209046/544057/about/)
 
 
-Manel Puigcerver
+# Manel Puigcerver
 * [Linkedin](https://www.linkedin.com/in/manelpnavarro/)
 * [X](https://x.com/manelpnavarro)
-* [BlueSky](https://bsky.app/profile/manelpnavarro.bsky.social)
+* [Bluesky](https://bsky.app/profile/manelpnavarro.bsky.social)
