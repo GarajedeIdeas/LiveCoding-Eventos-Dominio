@@ -16,9 +16,9 @@ En este proyecto encontrarás 3 ramas:
 * after-refactor con el proyecto refactorizado usando eventos de dominio (elm mismo contenido que en main).
 
 # Enlaces de interés
-* 📝 [Mathias Verraes - Domain Events] (https://verraes.net/2014/11/domain-events/)
-* 📝 Nicolás Bottarini - Guía de eventos de dominio
-* ▶️ Codely TV - Por qué no puede haber SOLID sin Eventos de Dominio
-* ▶️ Codely TV - Eventos de Dominio vs Eventos de Integración
-* ▶️ Codely TV - Errores comunes aplicando eventos de dominio
-* ▶️ Codely TV - Curso Modelado del dominio: Eventos de Dominio
+* 📝 [Mathias Verraes - Domain Events](https://verraes.net/2014/11/domain-events/)
+* 📝 [Nicolás Bottarini - Guía de eventos de dominio](https://nbottarini.com/es/posts/2021/12/16/domain_events_guide/)
+* ▶️ [Codely TV - Por qué no puede haber SOLID sin Eventos de Dominio](https://www.youtube.com/watch?v=159SstwQWE4)
+* ▶️ [Codely TV - Eventos de Dominio vs Eventos de Integración](https://www.youtube.com/watch?v=NBnCW9_cK2g)
+* ▶️ [Codely TV - Errores comunes aplicando eventos de dominio]
+* ▶️ [Codely TV - Curso Modelado del dominio: Eventos de Dominio]
