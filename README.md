@@ -1,4 +1,5 @@
-# Garaje de Ideas - Eventos de Dominio
+# Garaje de Ideas - Eventos de DominioManel Puigcerver
+
 Material de apoyo para el live coding para Garaje de ideas sobre Eventos de Dominio.
 
 El objetivo de este repositorio es brindar ejemplos de como implementar eventos de dominio en un proyecto con arquitectura hexagonal.
@@ -22,3 +23,9 @@ En este proyecto encontrarás 3 ramas:
 * ▶️ [Codely TV - Eventos de Dominio vs Eventos de Integración](https://www.youtube.com/watch?v=NBnCW9_cK2g)
 * ▶️ [Codely TV - Errores comunes aplicando eventos de dominio](https://www.youtube.com/watch?v=Mb21zCnkHj8)
 * ▶️ [Codely TV - Curso Modelado del dominio: Eventos de Dominio](https://pro.codely.com/library/modelado-del-dominio-eventos-de-dominio-209046/544057/about/)
+
+
+Manel Puigcerver
+* [Linkedin](https://www.linkedin.com/in/manelpnavarro/)
+* [X](https://x.com/manelpnavarro)
+* [BlueSky](https://bsky.app/profile/manelpnavarro.bsky.social)
